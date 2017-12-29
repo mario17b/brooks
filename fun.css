@@ -1,0 +1,15 @@
+body {
+    border-style: solid;
+    margin: 2em;
+    padding: 20px;
+}
+h1 {
+    color: blue;
+}
+p, ul, ol {
+    color: darkblue;
+}
+h2 {
+  color: green;
+  font-style: bold;
+}
